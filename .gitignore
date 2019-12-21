@@ -19,6 +19,8 @@ software/phy_nios_2/.cproject
 software/phy_nios_2/.project
 ad9516/adhmrom.v
 ad9516/adhmrom_bb.v
+ALT_IOBUF2.v
+ALT_IOBUF2_bb.v
 *.qip
 *.qdf
 *.qsys
